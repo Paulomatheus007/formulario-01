@@ -1,0 +1,62 @@
+*{
+
+
+}
+
+.container{
+display: flex;
+
+
+}
+.card{
+/* height: 720px;
+width: 720px; */
+flex-wrap: wrap;
+display: flex;
+}
+
+.card-body{
+/* color: brown;
+border: 1px solid red; */
+}
+
+body{
+background-color:hsl(241.4deg 100% 7.71%) ;
+    
+}
+
+main{
+display: flex;
+flex-wrap: wrap;
+
+}
+
+.navbar{
+
+}
+header{
+    background-color: hsl(241.4deg 100% 74.71%);
+
+
+}
+.nav-link{
+
+
+}
+.navbar-brand{
+
+
+
+}
+
+.dropdown-menu{
+background-color: #5755b3;
+
+}
+.fa-3x{
+
+    
+}
+label{
+    color: white;
+}
